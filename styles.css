@@ -1,0 +1,13 @@
+.mainHeading{
+   text-align: center;
+   background-color: pink;
+   margin-top: 0%;
+   margin-bottom: 0%;
+   margin-left: 0%;
+   margin-right: 0%;
+}
+
+.subHeading{ 
+    background-color: bisque;
+    height: 100vh ; 
+}
