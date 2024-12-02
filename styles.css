@@ -5,9 +5,18 @@
    margin-bottom: 0%;
    margin-left: 0%;
    margin-right: 0%;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   font-style: oblique;
+   text-decoration:purple underline;
 }
 
 .subHeading{ 
-    background-color: bisque;
+    background-color: plum;
     height: 100vh ; 
+    font-size: larger;
+    font-stretch: expanded;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: oblique;
+    font-weight: bolder;
+    
 }
